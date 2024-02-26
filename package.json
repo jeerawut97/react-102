@@ -2,6 +2,7 @@
   "name": "react-essentials-practice",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jeerawut97.github.io/react-investment/",
   "type": "module",
   "scripts": {
     "dev": "vite",
